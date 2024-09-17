@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Arshiya Garg</h1>
-<h3 align="center">Curious learner</h3>
 
 - 🌱 I’m currently learning **React**
 
